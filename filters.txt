@@ -79,3 +79,7 @@ youtube.com##.yt-simple-endpoint[title="Shorts"]
 youtube.com##.ytGridShelfViewModelHost
 ! Shorts search header button
 youtube.com##.ytChipShapeHost:has-text(Shorts)
+
+!reddit.com
+www.reddit.com##faceplate-tracker[noun="games_drawer"]
+www.reddit.com##faceplate-tracker[noun="games_drawer"] + hr
