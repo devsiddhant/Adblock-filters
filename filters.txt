@@ -83,3 +83,6 @@ youtube.com##.ytChipShapeHost:has-text(Shorts)
 !reddit.com
 www.reddit.com##faceplate-tracker[noun="games_drawer"]
 www.reddit.com##faceplate-tracker[noun="games_drawer"] + hr
+
+! 12 Feb 2026 https://discuss.privacyguides.net
+discuss.privacyguides.net###banner
