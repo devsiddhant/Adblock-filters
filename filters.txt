@@ -77,6 +77,7 @@ youtube.com##.pivot-shorts.pivot-bar-item-tab
 youtube.com##.yt-simple-endpoint[title="Shorts"]
 ! Updated rules
 youtube.com##.ytGridShelfViewModelHost
+youtube.com##.ytp-variable-speed-panel-content .ytp-variable-speed-panel-preset-button:has(.ytp-variable-speed-panel-premium-upsell-icon)
 ! Shorts search header button
 youtube.com##.ytChipShapeHost:has-text(Shorts)
 
