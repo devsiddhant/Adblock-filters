@@ -2,7 +2,7 @@
 ! Description: Minimal, site-specific cosmetic filters based on websites I regularly use
 ! Author: dev-siddhant
 ! License: MIT
-! Expires: 1 day
+! Expires: 100 days
 ! Version: 2026.01.04
 ! Last modified: 04 Jan 2026
 !
