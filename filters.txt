@@ -3,7 +3,7 @@
 ! Author: dev-siddhant
 ! License: MIT
 ! Expires: 100 days
-! Version: 2026.01.05
+! Version: 2026.01.06
 ! Last modified: 23 Mar 2026
 !
 
@@ -91,3 +91,8 @@ discuss.privacyguides.net###banner
 !23 Mar 2026
 mail.proton.me##.topnav-container.flex.flex-none.md\:flex-initial.justify-end.self-center.my-auto.ml-auto.md\:ml-0.no-print
 www.facebook.com##div.m.fixed-container:nth-of-type(2) > div.m:nth-of-type(1) > div.m:nth-of-type(4)
+
+www.oxfordlearnersdictionaries.com###ring-links-box > div:nth-of-type(1)
+www.oxfordlearnersdictionaries.com##.col-md-12 > ul
+www.oxfordlearnersdictionaries.com##.container.footer-content-container > div:nth-of-type(3) > p
+www.oxfordlearnersdictionaries.com##div.footer-container:nth-of-type(3)
