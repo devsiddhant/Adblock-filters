@@ -3,8 +3,8 @@
 ! Author: dev-siddhant
 ! License: MIT
 ! Expires: 100 days
-! Version: 2026.01.04
-! Last modified: 04 Jan 2026
+! Version: 2026.01.05
+! Last modified: 23 Mar 2026
 !
 
 ! ==================================================
@@ -87,3 +87,7 @@ www.reddit.com##faceplate-tracker[noun="games_drawer"] + hr
 
 ! 12 Feb 2026 https://discuss.privacyguides.net
 discuss.privacyguides.net###banner
+
+!23 Mar 2026
+mail.proton.me##.topnav-container.flex.flex-none.md\:flex-initial.justify-end.self-center.my-auto.ml-auto.md\:ml-0.no-print
+www.facebook.com##div.m.fixed-container:nth-of-type(2) > div.m:nth-of-type(1) > div.m:nth-of-type(4)
