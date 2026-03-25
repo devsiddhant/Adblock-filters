@@ -3,8 +3,8 @@
 ! Author: dev-siddhant
 ! License: MIT
 ! Expires: 100 days
-! Version: 2026.01.07
-! Last modified: 24 Mar 2026
+! Version: 0.0.1
+! Last modified: 25 Mar 2026
 !
 
 ! ==================================================
@@ -97,4 +97,9 @@ www.oxfordlearnersdictionaries.com##.col-md-12 > ul
 www.oxfordlearnersdictionaries.com##.container.footer-content-container > div:nth-of-type(3) > p
 www.oxfordlearnersdictionaries.com##div.footer-container:nth-of-type(3)
 open.spotify.com##a.FByM6mgNkSMfGIqI:nth-of-type(4)
+!Startpage
+www.startpage.com##.ay-bg-container.css-1jxfiop
+www.startpage.com##.top-attribution.css-17knt2z
+
+
 
