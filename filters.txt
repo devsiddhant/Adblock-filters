@@ -100,6 +100,6 @@ open.spotify.com##a.FByM6mgNkSMfGIqI:nth-of-type(4)
 !Startpage
 www.startpage.com##.ay-bg-container.css-1jxfiop
 www.startpage.com##.top-attribution.css-17knt2z
-
+www.startpage.com##.support-banner.css-10vbfo
 ! Apr 8, 2026 https://www.simplepatro.com
 www.simplepatro.com##.group.relative.overflow-hidden.gap-6.justify-between.items-center.flex-col.flex.dark:border-white/10.border-gray-200.border.md:p-5.p-4.rounded-lg.to-primary/10.from-primary/5.dark:bg-zinc-900.bg-white.w-full
